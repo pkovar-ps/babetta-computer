@@ -2,14 +2,15 @@
  * Bike Computer for Babetta
  * Palubní počítač pro Babettu
  * 
- * Code used for temperature measurements derived from: https://www.circuitbasics.com/arduino-thermistor-temperature-sensor-tutorial/
+ * config.h
+ * Constants and setup parameters
  * 
  * Petr Kovář 2021
 */
 
 /* Constants */
 #define MEASURE_INTERVAL 1000
-#define WH_CIRCUMFERENCE 1245
+#define WH_CIRCUMFERENCE 1650
 #define MENU_ITEMS 3
 #define MEASUREMENT_HIST_CNT 3 // for averageing speed 
 #define UPDATE_INTERVAL 500

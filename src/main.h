@@ -1,3 +1,13 @@
+/*
+ * Bike Computer for Babetta
+ * Palubní počítač pro Babettu
+ * 
+ * main.h
+ * Header file with function definitions
+ * 
+ * Petr Kovář 2021
+*/
+
 #ifndef MAIN_H
 #define MAIN_H
 
